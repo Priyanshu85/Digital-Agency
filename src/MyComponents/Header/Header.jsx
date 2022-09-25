@@ -9,9 +9,9 @@ function Header()
   return (
     <>
     <div>
-    <div className='flex w-screen bg-[#F8F8F8]'>
+    <div className='flex w-screen bg-[#F8F8F8] justify-center'>
     <div className='h-9 flex'>
-        <p className='text-gray-500 font-semibold text-sm ml-16 mt-2 flex text-center'>YOUR LOCAL DIGITAL MARKETING AGENCY</p>
+        <p className='text-gray-500 font-semibold text-sm  mt-2 flex text-center'>YOUR LOCAL DIGITAL MARKETING AGENCY</p>
         </div>
         <div className='hidden mt-2 md:flex ml-96 pl-48'>
             <div className='flex px-5'>

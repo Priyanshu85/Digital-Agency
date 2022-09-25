@@ -5,8 +5,8 @@ import reputation2 from '../../images/reputation-2.png'
 
 function Cards() {
     return (
-        <div className='flex flex-col items-center mt-5 md:flex-row md:justify-evenly'>
-            <div className="w-72 md:w-96 rounded-2xl overflow-hidden shadow-xl hover:shadow-2xl md:-mb-16">
+        <div className='flex flex-col items-center mt-5 md:flex-row md:justify-around'>
+            <div className="w-72 md:w-80 rounded-2xl overflow-hidden shadow-xl hover:shadow-2xl md:-mb-16 hover:cursor-pointer">
                 <img className="w-full"
                     src={reputation}
                     alt="reputation"/>
@@ -18,7 +18,7 @@ function Cards() {
                     <p href="/" className='text-orange-600 font-sm text-center mt-6 mb-12'>LEARN MORE</p>
                 </div>
             </div>
-            <div className="w-72 md:w-96 rounded-2xl overflow-hidden shadow-lg mt-14 hover:shadow-2xl">
+            <div className="w-72 md:w-80 rounded-2xl overflow-hidden shadow-lg mt-14 hover:shadow-2xl hover:cursor-pointer">
                 <img className="w-full"
                     src={optimization}
                     alt="reputation"/>
@@ -30,7 +30,7 @@ function Cards() {
                     <p href="/" className='text-orange-600 font-sm text-center mt-6 mb-12'>LEARN MORE</p>
                 </div>
             </div>
-            <div className="w-72 md:w-96 rounded-2xl overflow-hidden shadow-lg mt-14 hover:shadow-2xl">
+            <div className="w-72 md:w-80 rounded-2xl overflow-hidden shadow-lg mt-14 hover:shadow-2xl hover:cursor-pointer">
                 <img className="w-full"
                     src={reputation2}
                     alt="reputation"/>

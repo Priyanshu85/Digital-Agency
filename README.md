@@ -1,3 +1,29 @@
+![image](https://user-images.githubusercontent.com/83485475/194510015-d0cd8796-a470-4085-baf7-c0c7eaf72d7f.png)
+
+# Digital Agency
+
+A Digital Marketing single page website. This was made when I was learning react.
+
+
+
+# Steps for Contribution
+
+- Fork the Repo
+- Star the Repo
+- Create a new relevant issue or solve an existing issue
+- Make a Pull Request.
+
+
+## 🚀 About Me
+I'm a full stack developer and love to make websites.
+
+My Portfolio link: http://priyanshu85.herokuapp.com/
+
+
+## 🛠 Skills
+React, NodeJs, ExpressJs, MongoDB, Javascript, HTML, CSS
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

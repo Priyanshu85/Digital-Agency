@@ -2,7 +2,7 @@
 
 # Digital Agency
 
-A Digital Marketing single page website. This was made when I was learning react.
+A Digital Marketing single page website. This was made when I was learning react+taillwind.
 
 
 

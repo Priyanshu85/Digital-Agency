@@ -108,3 +108,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
   -->
 </a>
 </div>
+
+
+<br>
+<hr>
+<h6 align="center">© Digital-Agency 
+<br>
+All Rights Reserved</h6>

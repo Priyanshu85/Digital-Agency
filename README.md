@@ -95,6 +95,29 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
+
+## Contributors
+
+**Thanks goes to these wonderful people ❤️**
+
+<br/>
+<div align="center">
+<a href="https://github.com/Priyanshu85/Digital-Agency/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Priyanshu85/Digital-Agency"/>
+  <!-- Use when number of contributors are large
+  <img src="https://contrib.rocks/image?repo=Priyanshu85/Digital-Agency&max=100&columns=11" width=97%/>
+  -->
+</a>
+</div>
+
+
+<br>
+<hr>
+<h6 align="center">© Digital-Agency 
+<br>
+All Rights Reserved</h6>
+
 ## Want to contribute?
 - Take a look at [`contributing guidelines`](CONTRIBUTING.md).
 - Refer [GitHub Flow](https://guides.github.com/introduction/flow).
+

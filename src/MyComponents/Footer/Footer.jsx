@@ -1,5 +1,8 @@
 import React from 'react'
 import logo from './../../images/logo.png'
+import message from '../../images/message.svg'
+import message1 from '../../images/message1.svg'
+import share from '../../images/share.svg'
 import logoWhite from './../../images/logo-white.png'
 
 function Footer (){
@@ -14,6 +17,20 @@ function Footer (){
             <a href="/" className="hidden items-center md:dark:hidden">
                 <img src={logo} className="mr-3 h-8" alt="logo"/>
             </a>
+            <div className='hidden mt-2 md:flex ml-96 pl-48 '>
+            <div className='flex px-5'>
+            <img src={message} alt='message-icon' className='h-5 px-2'/>
+            <p className='text-white font-semibold text-sm'>+91 9876543210</p>
+            </div>
+            <div className='flex px-5'>
+            <img src={message1} alt='message-icon' className='h-5 px-2'/>
+            <p className='text-white font-semibold text-sm'>info@demo.com</p>
+            </div>
+            <div className='flex px-5'>
+            <img src={share} alt='message-icon' className='h-5 px-2'/>
+            <p className='text-white font-semibold text-sm'>Follow Us</p>
+            </div>
+    </div>
         </div>
         <div className="grid grid-cols-2 gap-8 sm:gap-6 sm:grid-cols-3">
             <div>
